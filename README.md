@@ -20,7 +20,7 @@ As long as you:
 
 ## Suggested Citation
 ```
-Lachlan Deer 2017, Downloading BLS data to CSV using the API and Python.
+Lachlan Deer 2017, Downloading BLS data to CSV using the Public API and Python.
 ```
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
